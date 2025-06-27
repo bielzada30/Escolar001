@@ -1,0 +1,2 @@
+# Escolar001
+Meu aplicativo é um aplicativo de Chamada ele funciona da seguinte forma ele tem dois tipos de Login uma para o professor e outro para a coordenação o Login do professor Server para apenas da a presença pros alunos já a da coordenação serve para adicionar o aluno e enviar para alguma turma específica e ver fotos de todos os alunos 
